@@ -188,8 +188,8 @@ app:
   luascript-reader:
     enabled: true
   
-  # lua 脚本根类路径。（默认为 lua-script）
-  script-root-classpath: lua-script
+    # lua 脚本根类路径。（默认为 lua-script）
+    script-root-classpath: lua-script
 ```
 
 # LICENCE
