@@ -1,1 +1,2 @@
-io.github.jessez332623.reactive_luascript_reader.autoconfigure
+io.github.jessez332623.reactive_luascript_reader.autoconfigure.LuaScriptAutoConfiguration
+io.github.jessez332623.reactive_luascript_reader.config.RedisLuaScriptTemplateConfiguration
