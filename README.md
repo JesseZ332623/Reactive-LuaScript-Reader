@@ -2,6 +2,16 @@
 
 使用更安全的方式读取 Lua 脚本，供 ReactiveRedisTemplate<> 执行。
 
+## 依赖坐标
+
+```xml
+<dependency>
+    <groupId>io.github.jessez332623</groupId>
+    <artifactId>reactive-luascript-reader</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
 ## 用法示例
 
 务必使用 enum 先实现 `LuaScriptCatalogue` 接口，
